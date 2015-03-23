@@ -58,7 +58,7 @@ define(function (require, exports, module) {
      *  @type {?{zoomFactor:number}} */
     var currentState;
 	
-	var vertSplit = false,
+	var vertSplit = true,
 		previewActive = false;
     
     
